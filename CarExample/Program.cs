@@ -11,7 +11,7 @@ namespace CarExample
                 Mileage = 100
             };
 
-            Car car2 = new Car("XYZ987");
+            Car car2 = new Car("aaaXYZ987");
 
             car1.StatusReport();
             car2.StatusReport();

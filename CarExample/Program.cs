@@ -4,6 +4,10 @@ namespace CarExample
 {
     class Program
     {
+        /// <summary>
+        ///  test
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Car car1 = new Car(regNo: "ABC127") {
